@@ -17,11 +17,11 @@ The Colorado board of elections has requested analysis and results from the voti
 * The county with the highest turnout
 
 ## Election-Audit Results
-The three counties had a total vote count of nearly 370,000 and there were three candidates in the race for election.  The winner is Diana DeGette with 73.8% of the votes.  The results of this election are provided within the text file in this repo and are also screen printed in this document.
+The three counties had three candidates in the race for election. The results of this election are provided at the candidate and county level.  The results are viewable within the text file in this repo and are also screen printed in this document.
 
-A summary is as follows:
+A detailed summary of the election results is as follows:
 
-## 369,711 total votes in this election
+### 369,711 Total Votes
 
 County Level Results:
 
@@ -53,10 +53,15 @@ Candidate Level Results:
   * 11,606 total votes
   * 3.1% of the total vote count
 
-### Winner of this Election:  Diana DeGette
+
+# **Winner of this Election: DIANNA DEGETTE**
+
+
 
 
 ![4F345B2C-08DF-400C-A06A-6E95C043F491](https://user-images.githubusercontent.com/96222437/149555326-abf28491-6094-4b26-98b7-c68fc2160d2a.jpeg)
+
+
 
 ## Election-Audit Summary
 
